@@ -2,7 +2,7 @@
 * text=auto
 
 Modify File OK
-
+Modify File Test1
 # Custom for Visual Studio
 *.cs     diff=csharp
 *.sln    merge=union
